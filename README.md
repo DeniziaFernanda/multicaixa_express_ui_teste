@@ -1,8 +1,25 @@
-# multicaixa_express_ui
+# Multicaixa Express UI
 
-A new Flutter project.
+Esperimentando a ui do Multicaixa Express usando o flutter
 
-## Getting Started
+## Algumas imagens!
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/DeniziaFernanda/multicaixa_express_ui_teste/assets/74757278/f7eba0d3-d62f-4971-a75c-ed930e58aaab" width="200"/>
+    </td>
+    <td align="center">
+       <img src="https://github.com/DeniziaFernanda/multicaixa_express_ui_teste/assets/74757278/3c4c358d-754c-43df-a1fb-d67beb102eca" width="200"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/DeniziaFernanda/multicaixa_express_ui_teste/assets/74757278/bf0d3a87-ae5c-4b61-9bdf-ca85c3188939" width="200"/>
+    </td>
+       <td align="center">
+      <img src="https://github.com/DeniziaFernanda/multicaixa_express_ui_teste/assets/74757278/c135516e-4bf9-4a6c-a6fe-11ba2d1168b4" width="200"/>
+    </td>
+  </tr>
+</table>
 
 This project is a starting point for a Flutter application.
 
